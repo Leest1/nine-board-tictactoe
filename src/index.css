@@ -56,4 +56,9 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+  color: white;
+}
+
+.game-board {
+  padding: 5px;
 }
